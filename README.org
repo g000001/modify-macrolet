@@ -1,0 +1,3 @@
+* modify-macrolet
+define-modify-macro のローカル版。何故か思い浮かんだので作ってしまった
+
